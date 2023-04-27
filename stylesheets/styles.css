@@ -1,0 +1,5 @@
+.btn-success{
+    background-color: grey;
+    /* al darle click se pone la letra negra */
+    --bs-btn-active-color: black;
+}
